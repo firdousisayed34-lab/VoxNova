@@ -1,6 +1,2 @@
 streamlit
 pyttsx3
-pygame
-pillow
-numpy
-pyautogui
