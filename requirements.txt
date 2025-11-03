@@ -1,5 +1,4 @@
 streamlit
-pandas
 pyttsx3
 pygame
 pillow
